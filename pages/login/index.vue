@@ -87,8 +87,8 @@ export default {
     return {
       user: {
         username: '',
-        email: 'lpzmail@163.com',
-        password: '12345678'
+        email: 'yezhiwei0762@163.com',
+        password: 'yzw19950327'
       },
       errors: {} // 错误信息
     }
